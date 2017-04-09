@@ -68,6 +68,7 @@ TCP_GET_RRDGRAPH = 14
 
 os.chdir(fan_compost_dir)
 
+
 class CompostFAN:
     def __init__(self, no):
         self.no = no
