@@ -6,9 +6,9 @@ compost_csv_file = 'fan_compost.csv'
 
 
 # rrd
-fan_compost_dir = '/home/caribou/CompostFanServer'
-rrd_dir = '/home/caribou/CompostFanServer/'
-rrd_png = '/home/caribou/CompostFanServer'
+fan_compost_dir = './'
+rrd_dir = fan_compost_dir
+rrd_png = fan_compost_dir
 
 # Feather Serial Port
 serial_feather_port_0 = '/dev/ttyACM0'
